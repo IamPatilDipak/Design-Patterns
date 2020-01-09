@@ -1,0 +1,1 @@
+## I — Interface segregation principle
