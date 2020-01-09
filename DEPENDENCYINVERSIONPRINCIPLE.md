@@ -6,6 +6,6 @@ Depending on which source one refers to, Dependency Inversion Principle, as defi
 
     Depend upon Abstractions. Do not depend upon concretions.
                          OR                          
-Abstractions should not depend upon details. Details should depend upon abstractions.
+    Abstractions should not depend upon details. Details should depend upon abstractions.
                          OR                          
-High-level modules should not depend on low-level modules. Both should depend on abstractions.
+    High-level modules should not depend on low-level modules. Both should depend on abstractions.
