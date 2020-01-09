@@ -1,14 +1,7 @@
-# SOLID Principles
-
-SOLID is an acronym for 5 important design principles when doing OOP (Object Oriented Programming).
-
-The intention of these principles is to make software designs more understandable, easier to maintain and easier to extend.
-As a software engineer, these 5 principles are essential to know.
-
-In this article, will be explaining these principles, giving examples of how they are violated, and how to correct them so they are compliant with SOLID. Examples will be given in Java, but applies to any OOP language.
-
 ## S — Single responsibility principle
 
+Single Responsibility Principle was defined by Robert C. Martin as – A class should have only one reason to change.
+    
 The Single Responsibility Principle states that every module or class should have responsibility over a single part of the functionality  provided by the software.
 
 You may have heard the quote: “Do one thing and do it well”.
