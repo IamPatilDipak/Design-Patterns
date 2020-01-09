@@ -7,14 +7,7 @@ As a software engineer, these 5 principles are essential to know.
 
 In this article, will be explaining these principles, giving examples of how they are violated, and how to correct them so they are compliant with SOLID. Examples will be given in Java, but applies to any OOP language.
 
-## S — Single responsibility principle
+## S — [Single responsibility principle] (https://github.com/IamPatilDipak/Software-Design/edit/master/SINGLERESPONSIBILITYPRINCIPLE.md)
 
-http://github.com - automatic!
-[GitHub](http://github.com)
-[link to Google!](http://google.com)
 
-[link to Google!]("https://github.com/IamPatilDipak/Software-Design/edit/master/SINGLE RESPONSIBILITY PRINCIPLE.md")
 
-[link to Google!](https://github.com/IamPatilDipak/Software-Design/edit/master/SINGLERESPONSIBILITYPRINCIPLE.md)
-
-[link to Google!](https://github.com/IamPatilDipak/Software-Design/edit/master/SINGLE RESPONSIBILITY PRINCIPLE.md)
