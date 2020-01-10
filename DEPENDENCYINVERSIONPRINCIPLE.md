@@ -8,6 +8,7 @@ Dependency Inversion Principle, as defined by **Robert C. Martin**, can be defin
                          OR                          
     High-level modules should not depend on low-level modules. Both should depend on abstractions.
 
+This aims to reduce the coupling between the classes is achieved by introducing abstraction between the layer, thus doesn’t care about the real implementation.
 
 **Understanding the definition of Dependency Inversion Principle**
 
