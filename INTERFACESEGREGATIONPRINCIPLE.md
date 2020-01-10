@@ -31,6 +31,7 @@ Interface Segregation Principle avoids the design drawbacks associated with a fa
 Let us look at a real-world object-oriented use case example in Java to understand how a fat interface can be refactored in to multiple lean interfaces when Interface Segregation Principle is applied to it.
 
 **Real-world object-oriented use case example in Java**
+
 Let us say that there is a Restaurant interface which contains methods for accepting orders from online customers, dial-in or telephone customers and walk-in customers. It also contains methods for handling online payments (for online customers) and in-person payments (for walk-in customers as well as telephone customers when their order is delivered at home).
 
 Now let us create a Java Interface for Restaurant as described above and name it as RestaurantInterface.java –
