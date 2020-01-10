@@ -14,7 +14,7 @@ This aims to reduce the coupling between the classes is achieved by introducing 
 
 To comply with this principle, we need to use a design pattern known as a dependency inversion pattern, most often solved by using dependency injection.
 
-Above two definitions of Dependency Inversion mentioned above mean the same. What each of the definitions imply is that Dependency Inversion Principle fundamentally reverses the way in which dependencies are managed in software systems.
+Above two definitions of Dependency Inversion mentioned mean the same. What each of the definitions imply is that Dependency Inversion Principle fundamentally reverses the way in which dependencies are managed in software systems.
 
 Rather than having the higher-level module directly depending on lower-level modules to carry out their responsibilities, this principle instead makes the higher-level module rely on an ‘abstraction’ or an ‘abstract interface’ representing lower-level module. The actual implementation of lower level module can then vary. As long as the lower-level module’s implementation is accessible to the higher-level module via the abstract interface, the higher-level module is able to invoke it.
 
